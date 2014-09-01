@@ -2,4 +2,6 @@ This is the main file for the repo.
 
 This repository will be used for learning git.
 
+Adding confusing stuff to cause problems
+
 I'm making a change because I was told to.
